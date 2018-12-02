@@ -1,0 +1,6 @@
+libsodiumIssue.cabal
+a.out
+.stack-work/
+*.sw*
+.#*
+.liquid/
